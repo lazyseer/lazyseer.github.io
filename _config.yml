@@ -82,20 +82,20 @@ avatar:
 toc: true
 
 comments:
-  active: 'giscus' # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: 'lazyseer'   # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: 'lazyseer/lazyseer.github.io'        # <gh-username>/<repo>
-    issue_term: 'pathname' # < url | pathname | title | ...>
+    repo:       # <gh-username>/<repo>
+    issue_term:  # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "lazyseer/lazyseer.github.io" # <gh-username>/<repo>
-    repo_id: "R_kgDOKa4XyQ"
-    category: "Comments"
-    category_id: "DIC_kwDOKa4Xyc4CZzTT"
+    repo: lazyseer/lazyseer.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOKa4XyQ
+    category: Comments
+    category_id: DIC_kwDOKa4Xyc4CZzTT
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
