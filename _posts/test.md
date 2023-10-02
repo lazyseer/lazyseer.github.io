@@ -1,8 +1,8 @@
 ---
 title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+date: 2023-10-02 20:43:00 +0900
+categories: [ETC]
+tags: [log]
 ---
 
 # 블로그 세팅 참 복잡하네!
