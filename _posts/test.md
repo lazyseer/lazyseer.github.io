@@ -1,6 +1,6 @@
 ---
-title: TITLE
-date: 2023-10-02 20:43:00 +0900
+title: "TEST"
+date: 2023-10-02 20:47:00 +0900
 categories: [ETC]
 tags: [log]
 ---
